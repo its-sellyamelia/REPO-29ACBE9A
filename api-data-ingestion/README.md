@@ -98,3 +98,5 @@ The API response contains pagination information including:
 - skip
 - limit
 ```
+[README_API_Data_Ingestion_Pipeline.pdf](https://github.com/user-attachments/files/31837979/README_API_Data_Ingestion_Pipeline.pdf)
+
