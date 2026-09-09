@@ -1,6 +1,0 @@
-order_id,order_date,customer_name,product,category,quantity,price
-1,2026-01-01,Andi,Laptop,Electronics,1,8500000
-2,2026-01-02,Budi,Mouse,Accessories,2,150000
-3,2026-01-03,Citra,Keyboard,Accessories,1,350000
-4,2026-01-04,Doni,Monitor,Electronics,1,2500000
-5,2026-01-05,Eka,Laptop,Electronics,1,8500000
