@@ -28,3 +28,4 @@ Load
    ▼
 PostgreSQL
 ```
+[ETL_Pipeline_CSV_to_Database_Documentation.pdf](https://github.com/user-attachments/files/32658652/ETL_Pipeline_CSV_to_Database_Documentation.pdf)
