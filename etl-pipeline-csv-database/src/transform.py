@@ -1,6 +1,6 @@
 import pandas as pd
 
-
+#Implement Data Profiling and Validation
 def validate_data(df):
 
     if df.empty:
@@ -18,6 +18,7 @@ def validate_data(df):
     return True
 
 
+#Implement Data Transformation
 def transform_data(df):
 
     df = df.copy()
